@@ -17,7 +17,7 @@ Here are the requirements to run this web application:
 ![final_webpage](https://github.com/Mishkanian/UFOs/blob/main/Resources/final_webpage.png)
 *Above is the completed webpage*
 
-To filter the UFO sighting data, type the desired search criteria into the specified search fields. Example placeholder entires are visible in the each field to guide user responses and enter information in the correct format. For example, the "Enter Date" field take searches in a numbered format, such as [1/7/2010](https://github.com/Mishkanian/UFOs/blob/main/Resources/example_filter.png). The table will dynamically update and return results after entering search fields. If no matches are found, the table will be empty.
+To filter the UFO sighting data, type the desired search criteria into the specified search fields. Example placeholder entires are visible in each of the fields to guide user responses and enter information in the correct format. For example, the "Enter Date" field take searches in a numbered format, such as [1/7/2010](https://github.com/Mishkanian/UFOs/blob/main/Resources/example_filter.png). The table will dynamically update and return results after entering search fields. If no matches are found, the table will be empty.
 
 ### Multiple Search Criteria
 
