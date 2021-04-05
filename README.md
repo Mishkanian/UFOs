@@ -4,7 +4,7 @@
 The purpose of this project is to build a UFO webpage for a hypothetical client "Dana," which has a dynamic table that allow users to filter for multiple criteria at the same time. This webpage is built with JavaScript, HTML, and CSS.
 
 ## Software
-Here are the requirements to run this web application:
+Here are the requirements to create this web application:
 - A code editor, such as [VS Code](https://code.visualstudio.com/), that supports the following:
   - HTML
   - JavaScript
